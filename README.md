@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&section=header
+
 ### Hi there 👋
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Enes3078.png" alt="TryHackMe">
