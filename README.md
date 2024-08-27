@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there&reversal=false&textBg=false&animation=fadeIn&strokeWidth=1&stroke=111111"/>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&section=header"/> 
 
 ### Hi there 👋
